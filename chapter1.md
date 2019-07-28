@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## "break" and "continue"
+## "Break" and "Continue"
 
 ```yaml
 type: VideoExercise
